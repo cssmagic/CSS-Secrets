@@ -5,7 +5,7 @@
 **CSS**|-|层叠样式表、级联样式表、样式单
 cascade|层叠（机制）|级联
 fallback|回退（机制）|后备、回落、降级
-selector|选择符|选择器
+selector|选择符|选择器、选择式
 (CSS) Hack|-|招数、偏方、CSS 黑客程序
 specifications|（技术）规范|规格说明书
 spec|〃|〃
@@ -25,6 +25,11 @@ linear-gradient|线性渐变|直线～
 radial-gradient|径向渐变|辐射～
 conic-gradient|角向渐变|角度～、圆锥～
 outline|描边|外框、轮廓
+flexbox|弹性盒（布局）|弹性盒子、伸缩盒
+background|背景|-
+background color|背景色|背景颜色
+background image|背景图像|背景图片
+(background) repeat|（重复）平铺|重复
 |
 **Box Model**|盒模型|盒子模型
 padding|内边距|补白
@@ -42,3 +47,5 @@ bug|-|（程序）缺陷、漏洞
 ***
 
 * “本书译法” 一列中的 `-` 表示不译，直接采用英文原文。
+* “其它译法” 一列中的 `-` 表示暂无其它译法。
+* 波浪号（`～`）表示省略与前面重复的部分字词。

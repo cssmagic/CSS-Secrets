@@ -5,11 +5,14 @@
 ### 文档
 
 * [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)（讨论中）
-* [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2)（筹备中）
+* 勘误表（筹备中）
 
 ### 试读样章
 
-* （近期开放）
+（获出版社授权发布试读样章。早期译版未经校审，仅供参考。）
+
+* [[译] [040] 序](https://github.com/cssmagic/CSS-Secrets/issues/5)
+* [[译] [101] Web 标准：是敌是友？](https://github.com/cssmagic/CSS-Secrets/issues/7)
 
 ### 注解
 
