@@ -11,9 +11,11 @@
 
 （获出版社授权发布试读样章。早期译版未经校审，仅供参考。）
 
+* [[译] [030] 原书推荐序](https://github.com/cssmagic/CSS-Secrets/issues/9)
 * [[译] [040] 序](https://github.com/cssmagic/CSS-Secrets/issues/5)
 * [[译] [101] Web 标准：是敌是友？](https://github.com/cssmagic/CSS-Secrets/issues/7)
 * [[译] [102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/8)
+* [[译] [206] [#6] 复杂的背景图案](https://github.com/cssmagic/CSS-Secrets/issues/10)
 
 ### 注解
 
