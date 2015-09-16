@@ -16,6 +16,7 @@
 * [[译] [101] Web 标准：是敌是友？](https://github.com/cssmagic/CSS-Secrets/issues/7)
 * [[译] [102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/8)
 * [[译] [206] [#6] 复杂的背景图案](https://github.com/cssmagic/CSS-Secrets/issues/10)
+* [[译] [304] [#12] 切角效果](https://github.com/cssmagic/CSS-Secrets/issues/11)
 
 ### 注解
 
