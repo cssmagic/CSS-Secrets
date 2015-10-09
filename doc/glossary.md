@@ -7,12 +7,12 @@ cascade|层叠（机制）|级联
 fallback|回退（机制、措施、方案）|后备、回落、降级
 selector|选择符|选择器、选择式
 (CSS) Hack|-|招数、偏方、CSS 黑客程序
-specifications|（技术）规范|规格说明书
+specification|（技术）规范|规格说明书
 spec|〃|〃
 specificity|（选择符的）优先级|特异性、权重
 feature|特性|功能
 markup|（结构）标记|-
-tag|标签|-
+tag|标签|标记
 attribute|（标签）属性|特性
 |
 **property**|（对象、样式）属性|-
@@ -25,11 +25,12 @@ linear-gradient|线性渐变|直线～
 radial-gradient|径向渐变|辐射～
 conic-gradient|角向渐变|角度～、圆锥～
 outline|描边|外框、轮廓
-flexbox|弹性盒（布局）|弹性盒子、伸缩盒
+flexbox|伸缩盒（布局）|弹性盒、弹性盒子
 background|背景|-
 background color|背景色|背景颜色
 background image|背景图像|背景图片
 (background) repeat|（重复）平铺|重复
+(repeating) tile|（平铺）贴片|瓦片、瓷砖
 |
 **Box Model**|盒模型|盒子模型
 padding|内边距|补白
