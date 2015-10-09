@@ -19,6 +19,7 @@
 * [[译] [304] [#12] 切角效果](https://github.com/cssmagic/CSS-Secrets/issues/11)
 * [[译] [404] [#18] 毛玻璃效果](https://github.com/cssmagic/CSS-Secrets/issues/12)
 * [[译] [506] [#25] 华丽的 & 符号](https://github.com/cssmagic/CSS-Secrets/issues/13)
+* [[译] [603] [#31] 自定义复选框](https://github.com/cssmagic/CSS-Secrets/issues/14)
 
 ### 注解
 
