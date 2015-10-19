@@ -2,16 +2,18 @@
 
 这里是《CSS Secrets》中文版的大本营，这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
-### 进度
+### 进度表
 
-* 翻　译： ![progress](http://progressed.io/bar/100)
-* 校　对： ![progress](http://progressed.io/bar/95)
-* 润　色： ![progress](http://progressed.io/bar/10)
-* 校　审： ![progress](http://progressed.io/bar/5)
-* 电子版： ![progress](http://progressed.io/bar/0)
-* 排　版： ![progress](http://progressed.io/bar/0)
-* 印　刷： ![progress](http://progressed.io/bar/0)
-* 上　架： ![progress](http://progressed.io/bar/0)
+环节 | 负责人 | 进度 | （预计）完成时间 | 您可以做什么
+---|---|---|---|---
+翻译 | 译者 | ![progress](http://progressed.io/bar/100) | 2015-10-18 | 阅读样章并反馈
+校对 | 译者 |  ![progress](http://progressed.io/bar/95) | 2015-10-20 | 阅读样章并反馈
+润色 | 译者 |  ![progress](http://progressed.io/bar/10) | 2015-10-31 | 阅读样章并反馈
+|
+校审 | 出版社 |  ![progress](http://progressed.io/bar/5) | - | （等待）
+电子版发售 | 出版社 |  ![progress](http://progressed.io/bar/0) | - | （等待）
+纸质书排版 | 出版社 |  ![progress](http://progressed.io/bar/0) | - | （等待）
+纸质书上架 | 出版社 |  ![progress](http://progressed.io/bar/0) | - | （等待）
 
 ***
 
@@ -45,6 +47,6 @@
 
 ### FAQ
 
-* 这本书的中文版是什么情况？
-* 中文版什么时候出版？
-* 中文版是彩色印刷吗？电子版是彩色的吗？
+* [这本书的中文版是什么情况？](https://github.com/cssmagic/CSS-Secrets/issues/16#intro)
+* [中文版什么时候出版？](https://github.com/cssmagic/CSS-Secrets/issues/16#when)
+* [中文版是彩色印刷吗？电子版是彩色的吗？](https://github.com/cssmagic/CSS-Secrets/issues/16#typeset)
