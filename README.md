@@ -2,6 +2,19 @@
 
 这里是《CSS Secrets》中文版的大本营，这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
+### 进度
+
+* 翻　译： ![progress](http://progressed.io/bar/100)
+* 校　对： ![progress](http://progressed.io/bar/95)
+* 润　色： ![progress](http://progressed.io/bar/10)
+* 校　审： ![progress](http://progressed.io/bar/5)
+* 电子版： ![progress](http://progressed.io/bar/0)
+* 排　版： ![progress](http://progressed.io/bar/0)
+* 印　刷： ![progress](http://progressed.io/bar/0)
+* 上　架： ![progress](http://progressed.io/bar/0)
+
+***
+
 ### 文档
 
 * [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)（讨论中）
@@ -30,25 +43,8 @@
 
 关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
 
-***
-
 ### FAQ
 
-#### 这本书的中文版是什么情况？
-
-* 出版社：这本书已经由国内顶尖的计算机图书公司 “图灵文化” 正式引进。
-* 译者：百姓网前端工程师 [@CSS魔法](http://weibo.com/cssmagic) 已经着手中文版的翻译。
-
-#### 中文版什么时候出版？
-
-中文版的翻译工作已接近尾声。
-
-在最理想的情况下，纸质书在年内就可以在各大书店上架。当然，电子版会更快，图灵官网最快可能在十月份逐章发售电子版，可在线阅读。
-
-迫不及待的同学请阅读本站发布的试读样章，试读量超过全书的 10%。
-
-#### 中文版是彩色印刷吗？电子版是彩色的吗？
-
-* 纸质书：据出版社的初步计划，中文版纸质书为全彩印刷；纸质为 80 克胶版纸；出于成本考虑，开本可能会比英文原版稍小一圈。（暂不确定中文版的版式是否与英文原版保持一致。）
-
-* 电子版：图灵官网发售的在线阅读版电子版将是普通排版，但插图和代码都是彩色的；图灵官网发售的 PDF 版电子版（如果有的话）将与中文版纸质书的排版完全一致。
+* 这本书的中文版是什么情况？
+* 中文版什么时候出版？
+* 中文版是彩色印刷吗？电子版是彩色的吗？
