@@ -18,6 +18,7 @@ attribute|（标签）属性|特性
 color|颜色|色彩
 transition|过渡（动画）|变换
 transform|变形|变换
+translate|平移|转移、位移、转化
 animation|动画|-
 gradient|渐变（色、图案）|过渡
 linear-gradient|线性渐变|直线～
