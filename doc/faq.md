@@ -1,5 +1,6 @@
 ---
 title: "FAQ / 常见问题"
+issue: cssmagic/CSS-Secrets#16
 ---
 
 ## 这本书的中文版是什么情况？<a name="intro">&nbsp;</a>

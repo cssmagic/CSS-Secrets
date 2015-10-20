@@ -1,3 +1,7 @@
+---
+issue: cssmagic/CSS-Secrets#1
+---
+
 # 术语翻译对照表
 
 原文|本书译法|其它译法（未采用）
