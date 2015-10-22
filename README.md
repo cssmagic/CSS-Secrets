@@ -7,7 +7,8 @@
 环节 | 负责人 | 进度 | （预计）完成时间 | 您可以做什么
 ---|---|---|---|---
 翻译 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-18** | 阅读样章并反馈
-校对 | 译者 |  ![progress](http://progressed.io/bar/97) | 2015-10-23 | 阅读样章并反馈
+校对、润色 | 译者 |  ![progress](http://progressed.io/bar/97) | 2015-10-23 | 阅读样章并反馈
+格式处理 | 译者 |  ![progress](http://progressed.io/bar/0) | 2015-10-31 | （等待）
 |
 校审 | 出版社 |  ![progress](http://progressed.io/bar/5) | - | （等待）
 电子版发售 | 出版社 |  ![progress](http://progressed.io/bar/0) | - | （等待）
