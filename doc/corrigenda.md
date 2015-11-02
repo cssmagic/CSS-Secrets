@@ -13,4 +13,4 @@ issue: cssmagic/CSS-Secrets#2
 > by O’Reilly Media, Inc.
 
 * [出版社已确认](http://www.oreilly.com/catalog/errata.csp?isbn=0636920031123)
-* [未确认](http://www.oreilly.com/catalog/errataunconfirmed.csp?isbn=0636920031123)
+* [待确认](http://www.oreilly.com/catalog/errataunconfirmed.csp?isbn=0636920031123)

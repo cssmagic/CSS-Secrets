@@ -8,7 +8,7 @@
 ---|:---:|---|:---:|:---:
 翻译 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-18** | 阅读样章并反馈
 校对 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-23** | 阅读样章并反馈
-格式处理 | 译者 | ![progress](http://progressed.io/bar/75) | 2015-10-31 | （等待）
+格式处理 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-31** | -
 |
 校审 | 出版社 |  ![progress](http://progressed.io/bar/5) | - | （等待）
 电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
