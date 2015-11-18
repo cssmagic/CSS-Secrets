@@ -8,6 +8,8 @@ issue: cssmagic/CSS-Secrets#17
 章节编号 | 章节标题 | 试读样章(免费) | 电子版(付费) | 注解(免费)
 :---:|---|:---:|:---:|:---:
 |
+003| 本书收到的赞誉|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/21)|-|-
+|
 030| **原书推荐序**|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/9)|-|-
 040| **序**|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)|-|-
 041| 致谢辞|-|-|-
