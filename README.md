@@ -45,6 +45,7 @@
 * [[506] [#25] 华丽的 & 符号](https://github.com/cssmagic/CSS-Secrets/issues/13)
 * [[603] [#31] 自定义复选框](https://github.com/cssmagic/CSS-Secrets/issues/14)
 * [[706] [#41] 紧贴底部的页脚](https://github.com/cssmagic/CSS-Secrets/issues/18)
+* [[802] [#43] 逐帧动画](https://github.com/cssmagic/CSS-Secrets/issues/22)
 
 ### 注解
 
