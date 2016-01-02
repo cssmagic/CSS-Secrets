@@ -12,7 +12,7 @@
 |
 校审 | 出版社 |  ![progress](http://progressed.io/bar/90) | - | （等待）
 电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
-纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/70) | - | （等待）
+纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/90) | - | （等待）
 纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
 
 ### 常见问题 <a name="faq">&nbsp;</a>
@@ -33,7 +33,7 @@
 
 （获出版社授权发布免费试读样章。早期译版未经校审，仅供参考。）
 
-* [[000] 本书收到的赞誉](https://github.com/cssmagic/CSS-Secrets/issues/21)
+* [[003] 本书收到的赞誉](https://github.com/cssmagic/CSS-Secrets/issues/21)
 * [[030] 原书推荐序](https://github.com/cssmagic/CSS-Secrets/issues/9)
 * [[040] 序](https://github.com/cssmagic/CSS-Secrets/issues/5)
 * [[043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/15)
