@@ -10,9 +10,9 @@
 校对 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-23** | 阅读样章并反馈
 格式处理 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-31** | -
 |
-校审 | 出版社 |  ![progress](http://progressed.io/bar/90) | - | （等待）
-电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
-纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/90) | - | （等待）
+校审 | 出版社 |  ![progress](http://progressed.io/bar/90) | 2016-01-15 | （等待）
+电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | 2016-01-31 | （等待）
+纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/100) | **2015-12-31** | -
 纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
 
 ### 常见问题 <a name="faq">&nbsp;</a>
