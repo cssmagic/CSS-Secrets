@@ -1,6 +1,6 @@
-# CSS Secrets
+# 《CSS Secrets》中文版
 
-> 这里是《CSS Secrets》中文版的大本营，这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
+> 这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
 ### 进度表 <a name="progress">&nbsp;</a>
 
@@ -14,8 +14,9 @@
 纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/100) | **2015-12-31** | -
 三审 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-01-14** | -
 |
-一校 | 出版社 | ![progress](http://progressed.io/bar/50) | 2016-01-31 | （等待）
-二校 | 出版社 | ![progress](http://progressed.io/bar/30) | 2016-02-10 | （等待）
+一校、二校 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-02-02** | -
+三校 | 出版社 | ![progress](http://progressed.io/bar/10) | 2016-02-20 | （等待）
+|
 电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
 纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
 
