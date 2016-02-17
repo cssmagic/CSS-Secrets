@@ -15,16 +15,14 @@
 三审 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-01-14** | -
 |
 一校、二校 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-02-02** | -
-三校 | 出版社 | ![progress](http://progressed.io/bar/10) | 2016-02-20 | （等待）
+三校 | 出版社 | ![progress](http://progressed.io/bar/30) | 2016-02-20 | （等待）
 |
 电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
-纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
+纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | 2016-03-?? | （等待）
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
-* [这本书的中文版是什么情况？](https://github.com/cssmagic/CSS-Secrets/issues/16#intro)
-* [中文版什么时候出版？](https://github.com/cssmagic/CSS-Secrets/issues/16#when)
-* [中文版是彩色印刷吗？电子版是彩色的吗？](https://github.com/cssmagic/CSS-Secrets/issues/16#typeset)
+* [这本书的中文版是什么情况？什么时候出版？是彩色印刷吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
 
 ***
 
@@ -71,3 +69,10 @@
 * 名誉编辑：李松峰 (@cncuckoo)
 * 责任编辑：岳新欣
 * 执行编辑：杨琳 (@editorLynne)
+
+***
+
+### 其它版本
+
+* [英文原版](https://books.google.com.hk/books?id=nokNCgAAQBAJ&printsec=frontcover)
+* [繁体中文版（台湾版）](https://github.com/cssmagic/CSS-Secrets/issues/24)
