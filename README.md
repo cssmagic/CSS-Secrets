@@ -15,7 +15,7 @@
 三审 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-01-14** | -
 |
 一校、二校 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-02-02** | -
-三校 | 出版社 | ![progress](http://progressed.io/bar/30) | 2016-02-20 | （等待）
+三校 | 出版社 | ![progress](http://progressed.io/bar/50) | 2016-02-29 | （等待）
 |
 电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
 纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | 2016-03-?? | （等待）
