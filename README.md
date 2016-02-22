@@ -6,19 +6,19 @@
 
 阶段 | 负责人 | 进度 | (预计) 完成时间 | 您可以做什么
 ---|:---:|---|:---:|:---:
-翻译 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-18** | 阅读样章并反馈
-校对 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-23** | 阅读样章并反馈
-格式处理 | 译者 | ![progress](http://progressed.io/bar/100) | **2015-10-31** | -
+翻译 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-18** | 阅读样章并反馈
+校对 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-23** | 阅读样章并反馈
+格式处理 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-31** | -
 |
-一审、二审 | 出版社 | ![progress](http://progressed.io/bar/100) | **2015-11-24** | -
-纸质书排版 | 出版社 | ![progress](http://progressed.io/bar/100) | **2015-12-31** | -
-三审 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-01-14** | -
+一审、二审 | 出版社 | ![100%](http://progressed.io/bar/100) | **2015-11-24** | -
+纸质书排版 | 出版社 | ![100%](http://progressed.io/bar/100) | **2015-12-31** | -
+三审 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-01-14** | -
 |
-一校、二校 | 出版社 | ![progress](http://progressed.io/bar/100) | **2016-02-02** | -
-三校 | 出版社 | ![progress](http://progressed.io/bar/50) | 2016-02-29 | （等待）
+一校、二校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-02-02** | -
+三校 | 出版社 | ![50%](http://progressed.io/bar/50) | 2016-02-29 | （等待）
 |
-电子版发售 | 出版社 | ![progress](http://progressed.io/bar/0) | - | （等待）
-纸质书上架 | 出版社 | ![progress](http://progressed.io/bar/0) | 2016-03-?? | （等待）
+电子版发售 | 出版社 | ![0%](http://progressed.io/bar/0) | - | （等待）
+纸质书上架 | 出版社 | ![0%](http://progressed.io/bar/0) | 2016-03-?? | （等待）
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
