@@ -1,5 +1,5 @@
 ---
-issue: cssmagic/CSS-Secrets#1
+issue: "#1"
 ---
 
 # 术语翻译对照表

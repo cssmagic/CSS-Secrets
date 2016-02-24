@@ -1,6 +1,6 @@
 ---
 title: "总目录"
-issue: cssmagic/CSS-Secrets#17
+issue: "#17"
 ---
 
 ## 《CSS Secrets》中文版总目录
@@ -12,8 +12,8 @@ issue: cssmagic/CSS-Secrets#17
 003| 本书收到的赞誉|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/21)|-|-
 |
 030| **原书推荐序**|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/9)|-|-
-040| **序**|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)|-|-
-041| 致谢辞|-|-|-
+040| **前言**|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)|-|-
+041| 致谢|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/25)|-|-
 042| 这本书是怎样炼成的|-|-|-
 043| 关于本书|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/15)|-|-
 |

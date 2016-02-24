@@ -1,6 +1,6 @@
 ---
 title: "勘误表"
-issue: cssmagic/CSS-Secrets#2
+issue: "#2"
 ---
 
 ## 中文版勘误
