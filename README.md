@@ -22,7 +22,7 @@
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
-* [这本书的中文版是什么情况？什么时候出版？是彩色印刷吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
+* [这本书什么时候出版？是彩色印刷吗？有电子版吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
 
 ***
 
