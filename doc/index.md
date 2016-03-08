@@ -5,7 +5,7 @@ issue: "#17"
 
 ## 《CSS Secrets》中文版总目录
 
-章节编号 | 章节标题 | 试读样章(免费) | 电子版(付费) | 注解(免费)
+章节编号 | 章节标题 | 试读样章 <sup>[1]</sup> | 电子版(付费) <sup>[2]</sup> | 注解 <sup>[3]</sup>
 :---:|---|:---:|:---:|:---:
 000| 译者序|[立即阅读](https://github.com/cssmagic/CSS-Secrets/issues/23)|-|-
 |
@@ -82,6 +82,6 @@ issue: "#17"
 805| [46] 状态平滑的动画|-|-|-
 806| [47] 沿环形路径平移的动画|-|-|-
 
-* 关于 “试读样章”：本站发布的免费试读样章已获出版社授权。早期译版未经校审，仅供参考。
-* 关于 “电子版”：链接指向图灵官网的在线电子版，需要在图灵官网 [购买本书](http://www.ituring.com.cn/book/1695) 后方可阅读。
-* 关于 “注解”：还未编写完成，详情参见 [这里](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)。
+* <sup>[1]</sup> 本站发布的免费试读样章已获出版社授权。早期译版未经校审，仅供参考。
+* <sup>[2]</sup> 链接指向图灵官网的在线电子版，需要在图灵官网 [购买本书](http://www.ituring.com.cn/book/1695) 后方可阅读。
+* <sup>[3]</sup> 还未编写完成，详情参见 [这里](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)。
