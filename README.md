@@ -2,6 +2,17 @@
 
 > 这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
+### 基本信息 <a name="basic">&nbsp;</a>
+
+* 书名：《CSS 揭秘》
+* 出版日期：2016 年 4 月（预计）
+* 开本：大 16 开，尺寸约为 20cm × 26cm
+* 纸质：80 克胶版纸，全彩印刷
+* 页数：约 260 页
+* 定价：99 元
+
+详细介绍：[千呼万唤始出来：《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
+
 ### 进度表 <a name="progress">&nbsp;</a>
 
 阶段 | 负责人 | 进度 | 完成时间 | 您可以做什么
@@ -17,12 +28,13 @@
 一校、二校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-02-02** | -
 三校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-03-08** | -
 |
-电子版发售 | 出版社 | ![0%](http://progressed.io/bar/0) | 2016-03-28 (预计) | （等待）
-纸质书上架 | 出版社 | ![0%](http://progressed.io/bar/0) | 2016-03-28 (预计) | （等待）
+电子版发售 | 出版社 | ![0%](http://progressed.io/bar/0) | 2016-03-31 (预计) | （等待）
+纸质书上架 | 出版社 | ![0%](http://progressed.io/bar/0) | 2016-03-31 (预计) | [预购签名书](https://github.com/cssmagic/CSS-Secrets/issues/27)
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
 * [这本书什么时候出版？是彩色印刷吗？有电子版吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
+* [如何购买？](https://github.com/cssmagic/CSS-Secrets/issues/27)
 
 ***
 
