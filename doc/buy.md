@@ -1,5 +1,6 @@
 ---
 title: "购买方式"
+issue: "#27"
 ---
 
 ## 签名书（预购） <a name="signature">&nbsp;</a>
