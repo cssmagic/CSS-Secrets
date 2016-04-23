@@ -15,7 +15,7 @@ issue: "#17"
 040| **前言**|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9389)| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/28)
 041| 致谢|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/25)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9390)|-
 042| 这本书是怎样炼成的|-| [免费阅读](http://www.ituring.com.cn/tupubarticle/9391)|-
-043| 关于本书|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/15)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9392)|-
+043| 关于本书|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/15)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9392)| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/29)
 |
 **第一章** | **引言**|| [免费阅读](http://www.ituring.com.cn/tupubarticle/9393)|
 101| Web 标准：是敌是友？|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/7)|-|-

@@ -39,6 +39,8 @@
 
 ### 注解 <a name="notes">&nbsp;</a>
 
+* [[注解] [040] 前言](https://github.com/cssmagic/CSS-Secrets/issues/28)
+* [[注解] [043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/29)
 * 正在陆续发布中，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读所有注解。
 
 ### 试读样章 <a name="preview">&nbsp;</a>

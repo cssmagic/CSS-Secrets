@@ -24,3 +24,4 @@ npm-debug.log
 *.psd
 notes/*/*.md
 !notes/*/040.md
+!notes/*/043.md
