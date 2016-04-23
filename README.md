@@ -11,14 +11,14 @@
 * 页数：约 260 页
 * 定价：99 元
 
-详细介绍：[千呼万唤始出来：《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
+详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
 
 ### 进度表 <a name="progress">&nbsp;</a>
 
 阶段 | 负责人 | 进度 | 完成时间 | 您可以做什么
 ---|:---:|---|:---:|:---:
-翻译 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-18** | 阅读样章并反馈
-校对 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-23** | 阅读样章并反馈
+翻译 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-18** | -
+校对 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-23** | -
 格式处理 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-31** | -
 |
 一审、二审 | 出版社 | ![100%](http://progressed.io/bar/100) | **2015-11-24** | -
@@ -29,7 +29,7 @@
 三校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-03-08** | -
 |
 电子版发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-04-12** | [立即购买](https://github.com/cssmagic/CSS-Secrets/issues/27#e-book)
-纸质书上架 | 出版社 | ![50%](http://progressed.io/bar/50) | 2016-04-28 (预计) | [预购签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
+纸质书上架 | 出版社 | ![60%](http://progressed.io/bar/60) | 2016-05-08 (预计) | [预购签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
@@ -48,7 +48,7 @@
 
 （获出版社授权发布免费试读样章。早期译版未经校审，仅供参考。）
 
-* [[040] 序](https://github.com/cssmagic/CSS-Secrets/issues/5)
+* [[040] 前言](https://github.com/cssmagic/CSS-Secrets/issues/5)
 * [[043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/15)
 * [[101] Web 标准：是敌是友？](https://github.com/cssmagic/CSS-Secrets/issues/7)
 * [[102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/8)
@@ -61,9 +61,9 @@
 * [[802] [#43] 逐帧动画](https://github.com/cssmagic/CSS-Secrets/issues/22)
 * ……（更多样章请查阅 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17)）
 
-### 注解
+### 注解 <a name="notes">&nbsp;</a>
 
-* [《CSS Secrets》注解](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)（筹备中）
+* [《CSS Secrets》注解](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)（陆续发布中）
 
 ### 读者交流
 
