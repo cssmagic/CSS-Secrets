@@ -12,7 +12,7 @@ issue: "#17"
 003| 本书收到的赞誉|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/21)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9386)|-
 |
 030| **原书推荐序**|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/9)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9388)|-
-040| **前言**|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9389)|-
+040| **前言**|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/5)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9389)| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/28)
 041| 致谢|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/25)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9390)|-
 042| 这本书是怎样炼成的|-| [免费阅读](http://www.ituring.com.cn/tupubarticle/9391)|-
 043| 关于本书|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/15)| [免费阅读](http://www.ituring.com.cn/tupubarticle/9392)|-
@@ -84,4 +84,4 @@ issue: "#17"
 
 * <sup>[1]</sup> 本站发布的免费试读样章已获出版社授权。早期译版未经校审，仅供参考。
 * <sup>[2]</sup> 链接指向图灵官网的在线电子版，少量章节可免费在线阅读，其余章节需要在图灵官网 [购买本书](http://www.ituring.com.cn/book/1695) 后方可阅读。
-* <sup>[3]</sup> 还未编写完成，详情参见 [这里](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)。
+* <sup>[3]</sup> 正在整理，即将陆续发布。
