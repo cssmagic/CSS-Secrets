@@ -19,7 +19,7 @@ issue: "#17"
 |
 **第一章** | **引言**|| [免费阅读](http://www.ituring.com.cn/tupubarticle/9393)|
 101| Web 标准：是敌是友？|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/7)|-|-
-102| CSS 编码技巧|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/8)|-|-
+102| CSS 编码技巧|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/8)|-| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/30)
 |
 **第二章** | **背景与边框**|| [购买后阅读](http://www.ituring.com.cn/tupubarticle/9394)|
 201| [1] 半透明边框|-|-|-

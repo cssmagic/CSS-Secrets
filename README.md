@@ -41,15 +41,17 @@
 
 * [[注解] [040] 前言](https://github.com/cssmagic/CSS-Secrets/issues/28)
 * [[注解] [043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/29)
+* [[注解] [102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/30)
 * 正在陆续发布中，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读所有注解。
 
 ### 试读样章 <a name="preview">&nbsp;</a>
 
 * 获出版社授权发布免费试读样章，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读。
 
-### 其它文档
+### 其它文档与素材
 
 * [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2)（暂无内容）
+* [全书插图](https://github.com/cssmagic/CSS-Secrets/tree/master/figures)
 * [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
 
 ### 读者交流
