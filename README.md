@@ -10,8 +10,7 @@
 * 纸质：80 克胶版纸，全彩印刷
 * 页数：约 260 页
 * 定价：99 元
-
-详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
+* 详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
 
 ### 进度表 <a name="progress">&nbsp;</a>
 
@@ -38,36 +37,23 @@
 
 ***
 
-### 文档
+### 注解 <a name="notes">&nbsp;</a>
 
-* [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17)
-* [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
-* 勘误表（筹备中）
+* 正在陆续发布中，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读所有注解。
 
 ### 试读样章 <a name="preview">&nbsp;</a>
 
-（获出版社授权发布免费试读样章。早期译版未经校审，仅供参考。）
+* 获出版社授权发布免费试读样章，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读。
 
-* [[040] 前言](https://github.com/cssmagic/CSS-Secrets/issues/5)
-* [[043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/15)
-* [[101] Web 标准：是敌是友？](https://github.com/cssmagic/CSS-Secrets/issues/7)
-* [[102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/8)
-* [[206] [#6] 复杂的背景图案](https://github.com/cssmagic/CSS-Secrets/issues/10)
-* [[304] [#12] 切角效果](https://github.com/cssmagic/CSS-Secrets/issues/11)
-* [[404] [#18] 毛玻璃效果](https://github.com/cssmagic/CSS-Secrets/issues/12)
-* [[506] [#25] 华丽的 & 符号](https://github.com/cssmagic/CSS-Secrets/issues/13)
-* [[603] [#31] 自定义复选框](https://github.com/cssmagic/CSS-Secrets/issues/14)
-* [[706] [#41] 紧贴底部的页脚](https://github.com/cssmagic/CSS-Secrets/issues/18)
-* [[802] [#43] 逐帧动画](https://github.com/cssmagic/CSS-Secrets/issues/22)
-* ……（更多样章请查阅 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17)）
+### 其它文档
 
-### 注解 <a name="notes">&nbsp;</a>
-
-* [《CSS Secrets》注解](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)（陆续发布中）
+* [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2)（暂无内容）
+* [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
 
 ### 读者交流
 
-关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
+* 关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
+* 在书中发现任何错误，[都请提交勘误](https://github.com/cssmagic/CSS-Secrets/issues/2)。
 
 ***
 
