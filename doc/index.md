@@ -18,14 +18,14 @@ issue: "#17"
 043| 关于本书|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/15)| [免费阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9392)| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/29)
 |
 **第一章** | **引言**|| [免费阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9393)|
-101| Web 标准：是敌是友？|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/7)|-|-
+101| Web 标准：是敌还是友|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/7)|-|-
 102| CSS 编码技巧|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/8)|-| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/30)
 |
 **第二章** | **背景与边框**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9394)|
-201| [1] 半透明边框|-|-|-
+201| [1] 半透明边框|-|-| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/32)
 202| [2] 多重边框|-|-|-
 203| [3] 灵活的背景定位|-|-|-
-204| [4] 边框内圆角|-|-|-
+204| [4] 边框内圆角|-|-| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/33)
 205| [5] 条纹背景|-|-|-
 206| [6] 复杂的背景图案|[免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/10)|-|-
 207| [7] 伪随机背景|-|-|-
