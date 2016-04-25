@@ -40,3 +40,7 @@ issue: "#31"
 ![[CSS Secrets 简体中文版 - 预览]](https://cloud.githubusercontent.com/assets/1231359/14774506/5373c1dc-0ae9-11e6-9fea-10fa6bec0b3b.png)
 
 （本文完）
+
+***
+
+* [立即购买](https://github.com/cssmagic/CSS-Secrets/issues/27)
