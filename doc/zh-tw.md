@@ -5,21 +5,18 @@ issue: "#24"
 
 ## 基本信息
 
-#### 《CSS Secrets 中文版：解决网页设计问题的有效秘诀》
-
 ![[CSS Secrets 繁体中文版 - 封面]](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/A447.jpg)
+
+#### 《CSS Secrets 中文版：解决网页设计问题的有效秘诀》
 
 * 作者：Lea Verou
 * 译者：郑巧玉
 * 出版社：碁峰资讯股份有限公司
-* 出版日期：2016/01/11
+* 出版日期：2016-01-11
 * ISBN：9789863478744
 * 页数：392
-* 价格：680 新台币
-
-#### 详细报道
-
-* [《CSS Secrets》繁体中文版深度测评](http://mp.weixin.qq.com/s?__biz=MzIyMjE0ODQ0OQ==&mid=402491044&idx=1&sn=7f7873060c1331e9cf4477b095aa7226#rd)
+* 价格：680 新台币（约合 133 人民币）
+* 详细介绍：[《CSS Secrets》繁体中文版深度测评](http://mp.weixin.qq.com/s?__biz=MzIyMjE0ODQ0OQ==&mid=402491044&idx=1&sn=7f7873060c1331e9cf4477b095aa7226#rd)
 
 ## 内页预览
 
