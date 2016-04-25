@@ -11,11 +11,10 @@ issue: "#31"
 
 * 作者：Lea Verou
 * 译者：CSS魔法
-* 出版社：人民邮电出版社 · 北京图灵文化发展有限公司
-* 出版日期：2016-05-08
-* ISBN：9787115416940
-* 页数：260
-* 价格：99 人民币
+* 开本：大 16 开，尺寸约为 20cm × 26cm
+* 纸质：80 克胶版纸，全彩印刷
+* 页数：约 260 页
+* 定价：99 元人民币
 * 详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://mp.weixin.qq.com/s?__biz=MzIyMjE0ODQ0OQ==&mid=403508284&idx=1&sn=9d81ceb464ed38974ea5e08e26d9475a#rd)
 
 ## 内页预览
@@ -40,4 +39,4 @@ issue: "#31"
 
 ![[CSS Secrets 简体中文版 - 预览]](https://cloud.githubusercontent.com/assets/1231359/14774506/5373c1dc-0ae9-11e6-9fea-10fa6bec0b3b.png)
 
-（完）
+（本文完）

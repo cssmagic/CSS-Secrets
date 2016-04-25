@@ -4,12 +4,16 @@
 
 ### 基本信息 <a name="basic">&nbsp;</a>
 
-* 书名：《CSS 揭秘》
-* 出版日期：2016 年 4 月（预计）
+* 书名：**《CSS 揭秘》**
+* 作者：Lea Verou
+* 译者：CSS魔法
+* 出版社：人民邮电出版社 · 北京图灵文化发展有限公司
+* 出版日期：2016-05-08
+* ISBN：9787115416940
 * 开本：大 16 开，尺寸约为 20cm × 26cm
 * 纸质：80 克胶版纸，全彩印刷
 * 页数：约 260 页
-* 定价：99 元
+* 定价：99 元人民币
 * 详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
 
 ### 进度表 <a name="progress">&nbsp;</a>
@@ -28,7 +32,7 @@
 三校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-03-08** | -
 |
 电子版发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-04-12** | [立即购买](https://github.com/cssmagic/CSS-Secrets/issues/27#e-book)
-纸质书上架 | 出版社 | ![60%](http://progressed.io/bar/60) | 2016-05-08 (预计) | [预购签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
+纸质书上架 | 出版社 | ![60%](http://progressed.io/bar/60) | 2016-05-08 (预计) | [预订签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
@@ -47,6 +51,7 @@
 ### 试读样章 <a name="preview">&nbsp;</a>
 
 * 获出版社授权发布免费试读样章，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读。
+* [内页预览](https://github.com/cssmagic/CSS-Secrets/issues/31)（全彩高清）
 
 ### 其它文档与素材
 
