@@ -51,6 +51,7 @@
 * [[注解] [201] 半透明边框](https://github.com/cssmagic/CSS-Secrets/issues/32)
 * [[注解] [204] 边框内圆角](https://github.com/cssmagic/CSS-Secrets/issues/33)
 * [[注解] [205] 条纹背景](https://github.com/cssmagic/CSS-Secrets/issues/34)
+* [[注解] [208] 连续的图像边框](https://github.com/cssmagic/CSS-Secrets/issues/35)
 * ……（正在陆续发布中，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读）
 
 ### 试读样章 <a name="preview">&nbsp;</a>

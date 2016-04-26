@@ -29,7 +29,7 @@ issue: "#17"
 205| [5] 条纹背景|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/34)
 206| [6] 复杂的背景图案|[试读](https://github.com/cssmagic/CSS-Secrets/issues/10)|〃|-
 207| [7] 伪随机背景|-|〃|-
-208| [8] 连续的图像边框|-|〃|-
+208| [8] 连续的图像边框|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/35)
 |
 **第三章** | **形状**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9395)|
 301| [9] 自适应的椭圆|-|〃|-
