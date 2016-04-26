@@ -9,12 +9,22 @@ issue: "#2"
 
 > 感谢你的严谨让这本书变得圆满，其他读者必将从中受益！
 
+
 ## 中文版勘误 <a name="zh">&nbsp;</a>
 
-（暂无，待纸质书上市后更新）
+#### 第 30 页 · 第二段
 
+> 对于一个 45° 的直角三角形来说，它的两条直角边是等长的，因此这个算式会变成 ![\sqrt{2a} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a}%20%3d%20a%5csqrt{2})。
 
-## 英文原书勘误表 <a name="en">&nbsp;</a>
+句末的算式应为 ![\sqrt{2a^2} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a^2}%20%3d%20a%5csqrt{2})。
+
+贡献者： @cssmagic
+
+（持续更新中……）
+
+***
+
+### 英文原书勘误表 <a name="en">&nbsp;</a>
 
 > by O’Reilly Media, Inc.
 
