@@ -35,7 +35,7 @@ issue: "#17"
 301| [9] 自适应的椭圆|-|〃|-
 302| [10] 平行四边形|-|〃|-
 303| [11] 菱形图片|-|〃|-
-304| [12] 切角效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/11)|〃|-
+304| [12] 切角效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/11)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/38)
 305| [13] 梯形标签页|-|〃|-
 306| [14] 简单的饼图|-|〃|-
 |
