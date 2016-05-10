@@ -34,7 +34,7 @@
 三校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-03-08** | -
 |
 电子版发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-04-12** | [立即购买](https://github.com/cssmagic/CSS-Secrets/issues/27#e-book)
-纸质书发售 | 出版社 | ![80%](http://progressed.io/bar/80) | 2016-05-08 (预计) | [预订签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
+纸质书发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-05-08** | [预订签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
