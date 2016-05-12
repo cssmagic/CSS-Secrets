@@ -60,7 +60,7 @@ issue: "#16"
 
 * **购买纸质书之后如何兑换电子版？**
 
-	纸质书的封底有一张刮刮卡贴纸，刮开后请到 [图灵社区](http://www.ituring.com.cn/users/guaguacode) 兑换 “银子”（银子是图灵社区的虚拟货币，可用于购买电子书）。兑换后会收到一张优惠券，凭此优惠券可以在 [这本书的详情页面](http://www.ituring.com.cn/book/1695) 以 9.99 元的低价购买电子书。
+	纸质书的封底有一张 “图灵刮刮卡” 贴纸，刮开后请到 [图灵社区](http://www.ituring.com.cn/users/guaguacode) 兑换 “银子”（银子是图灵社区的虚拟货币，可用于购买电子书）。兑换后会收到一张优惠券，凭此优惠券可以在 [这本书的详情页面](http://www.ituring.com.cn/book/1695) 以 9.99 元的低价购买电子书。
 
 * **如何推送到 Kindle 阅读器或 Kindle App？**
 
