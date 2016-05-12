@@ -5,9 +5,9 @@ issue: "#27"
 
 ## 译者签名书 <a name="signature">&nbsp;</a>
 
-如果你想希望收藏一本译者签名书，那千万别错过 “CSS魔法” 微信公众号的预订活动！
+如果你想希望收藏一本译者签名书，那千万别错过 “CSS魔法” 微信公众号的预订活动！在公众号内发送 “签名书” 三个字，然后按提示操作就可以了。
 
-在公众号内发送 “签名书” 三个字，然后按提示操作就可以了。
+预订后大约一周内可以收到书。
 
 ![weixin-qrcode](https://cloud.githubusercontent.com/assets/1231359/13040994/04966808-d3ee-11e5-8eb5-7e3bf8767f4e.png)<br>（扫码关注 “CSS魔法” 微信公众号）
 
@@ -27,4 +27,4 @@ issue: "#27"
 
 * 定价： 49.99 元
 
-* 购买渠道：[图灵官网](http://www.ituring.com.cn/book/1695) 独家发售。
+* 购买渠道：[图灵官网](http://www.ituring.com.cn/book/1695) 独家发售。（关于电子版的疑问请参见 [FAQ 中的相关段落](https://github.com/cssmagic/CSS-Secrets/issues/16#e-book-more)）
