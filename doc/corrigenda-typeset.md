@@ -29,4 +29,12 @@ issue: "#36"
 
 <sup>（贡献者： @hdming）</sup>
 
+#### 第 115 页 · 第一个代码块 · 第 6 行
 
+> ```html
+<dd>lea@verou.me</dd>
+```
+
+本行的 `<dd>` 应设置为高亮色（绿色）。
+
+<sup>（贡献者： @hdming）</sup>

@@ -18,9 +18,39 @@ issue: "#2"
 
 句末的算式应为 ![\sqrt{2a^2} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a^2}%20%3d%20a%5csqrt{2})。
 
-贡献者： @cssmagic
+<sup>（贡献者： @cssmagic）</sup>
 
-（持续更新中……）
+#### 第 169 页 · 第二个代码块 · 第 5 行
+
+> ```js
+slider.insertBefore(img, div);
+```
+
+本行应为：
+
+```js
+slider.insertBefore(div, img);
+```
+
+<sup>（原载于英文原书勘误表，中文版整理者： @keyfoxth）</sup>
+
+#### 第 61 页 · 第二段
+
+> 因此，把 `max-width` 的值设置为 ![formula](http://latex.codecogs.com/gif.latex?%5csqrt{2}%20%5ctimes%20100%5c%%20%5capprox%20414.4213562%5c%) 是很合理的……
+
+算式右侧的 “**414**.421 356 2%” 应为 “**141**.421 356 2%”。
+
+<sup>（反馈者： @ourfeel，整理者： @cssmagic）</sup>
+
+#### 第 184 页 · 第四段
+
+> 如果把 `width` 这一行声明注释掉，你会发现其实没有影响。……只有把 width 显式地设置为 900px 之外（或大或小）的其他值，我们才有可能看出区别。
+
+应为：
+
+“如果把 `max-width` 这一行声明注释掉，你会发现其实没有影响。……只有把容器的 `width` 属性指定为 900px 之外（或大或小）的其他值，我们才有可能看出区别。”
+
+<sup>（原载于英文原书勘误表，中文版整理者： @cssmagic）</sup>
 
 ***
 
