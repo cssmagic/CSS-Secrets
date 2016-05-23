@@ -12,6 +12,18 @@ issue: "#2"
 
 ## 中文版勘误 <a name="zh">&nbsp;</a>
 
+#### 第 xxiv 页 · 本页的两个代码块
+
+本页有两个代码块，均包含以下这行代码：
+
+> ```stylus
+background: linear-gradient(90deg, yellow, red);
+```
+
+其中 `90deg` 应为 `0deg`。
+
+<sup>（贡献者： 微博网友 “June-映君”）</sup>
+
 #### 第 30 页 · 第二段
 
 > 对于一个 45° 的直角三角形来说，它的两条直角边是等长的，因此这个算式会变成 ![\sqrt{2a} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a}%20%3d%20a%5csqrt{2})。
