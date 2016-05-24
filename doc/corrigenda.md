@@ -22,7 +22,7 @@ background: linear-gradient(90deg, yellow, red);
 
 其中 `90deg` 应为 `0deg`。
 
-<sup>（贡献者： 微博网友 “June-映君”）</sup>
+<sup>（贡献者：@yifon）</sup>
 
 #### 第 30 页 · 第二段
 
@@ -30,7 +30,7 @@ background: linear-gradient(90deg, yellow, red);
 
 句末的算式应为 ![\sqrt{2a^2} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a^2}%20%3d%20a%5csqrt{2})。
 
-<sup>（贡献者： @cssmagic）</sup>
+<sup>（贡献者：@cssmagic）</sup>
 
 #### 第 169 页 · 第二个代码块 · 第 5 行
 
@@ -44,7 +44,7 @@ slider.insertBefore(img, div);
 slider.insertBefore(div, img);
 ```
 
-<sup>（原载于英文原书勘误表，中文版整理者： @keyfoxth）</sup>
+<sup>（原载于英文原书勘误表，中文版整理者：@keyfoxth）</sup>
 
 #### 第 61 页 · 第二段
 
@@ -52,7 +52,7 @@ slider.insertBefore(div, img);
 
 算式右侧的 “**414**.421 356 2%” 应为 “**141**.421 356 2%”。
 
-<sup>（反馈者： @ourfeel，整理者： @cssmagic）</sup>
+<sup>（反馈者：@ourfeel，整理者：@cssmagic）</sup>
 
 #### 第 184 页 · 第四段
 
@@ -62,7 +62,7 @@ slider.insertBefore(div, img);
 
 “如果把 `max-width` 这一行声明注释掉，你会发现其实没有影响。……只有把容器的 `width` 属性指定为 900px 之外（或大或小）的其他值，我们才有可能看出区别。”
 
-<sup>（原载于英文原书勘误表，中文版整理者： @cssmagic）</sup>
+<sup>（原载于英文原书勘误表，中文版整理者：@cssmagic）</sup>
 
 ***
 
