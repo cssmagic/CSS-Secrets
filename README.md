@@ -18,28 +18,15 @@
 * 定价：99 元人民币
 * 详细介绍：[《CSS Secrets》简体中文版前瞻报导](http://www.cssmagic.net/blog/wx/15)
 
-### 进度表 <a name="progress">&nbsp;</a>
-
-阶段 | 负责人 | 进度 | 完成时间 | 您可以做什么
----|:---:|---|:---:|:---:
-翻译 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-18** | -
-校对 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-23** | -
-格式处理 | 译者 | ![100%](http://progressed.io/bar/100) | **2015-10-31** | -
-|
-一审、二审 | 出版社 | ![100%](http://progressed.io/bar/100) | **2015-11-24** | -
-纸质书排版 | 出版社 | ![100%](http://progressed.io/bar/100) | **2015-12-31** | -
-三审 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-01-14** | -
-|
-一校、二校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-02-02** | -
-三校 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-03-08** | -
-|
-电子版发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-04-12** | [立即购买](https://github.com/cssmagic/CSS-Secrets/issues/27#e-book)
-纸质书发售 | 出版社 | ![100%](http://progressed.io/bar/100) | **2016-05-08** | [预订签名书](https://github.com/cssmagic/CSS-Secrets/issues/27#signature)
-
 ### 常见问题 <a name="faq">&nbsp;</a>
 
 * [这本书什么时候出版？是彩色印刷吗？有电子版吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
-* [如何购买？](https://github.com/cssmagic/CSS-Secrets/issues/27)
+* [如何购买？如何获得签名书？](https://github.com/cssmagic/CSS-Secrets/issues/27)
+
+### 读者交流 <a name="feedback">&nbsp;</a>
+
+* 关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
+* 在书中发现任何错误，[都请提交勘误](https://github.com/cssmagic/CSS-Secrets/issues/2#how-to)。
 
 ***
 
@@ -59,16 +46,12 @@
 * 获出版社授权发布免费试读样章，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读。
 * [内页预览](https://github.com/cssmagic/CSS-Secrets/issues/31)（全彩高清）
 
-### 其它文档与素材
+### 其它文档与素材 <a name="doc">&nbsp;</a>
 
 * [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2) &nbsp;|&nbsp; [排版失误](https://github.com/cssmagic/CSS-Secrets/issues/36)
 * [全书插图](https://github.com/cssmagic/CSS-Secrets/tree/master/figures)
 * [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
-
-### 读者交流
-
-* 关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
-* 在书中发现任何错误，[都请提交勘误](https://github.com/cssmagic/CSS-Secrets/issues/2#how-to)。
+* [进度表（存档留念）](https://github.com/cssmagic/CSS-Secrets/issues/43) <a name="progress">&nbsp;</a>
 
 ***
 
