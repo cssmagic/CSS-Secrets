@@ -7,8 +7,6 @@ issue: "#27"
 
 如果你想希望收藏一本译者签名书，那千万别错过 “CSS魔法” 微信公众号的预订活动！在公众号内发送 “签名书” 三个字，然后按提示操作就可以了。
 
-预订后大约一周内可以收到书。
-
 ![weixin-qrcode](https://cloud.githubusercontent.com/assets/1231359/13040994/04966808-d3ee-11e5-8eb5-7e3bf8767f4e.png)<br>（扫码关注 “CSS魔法” 微信公众号）
 
 
