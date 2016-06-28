@@ -20,7 +20,7 @@
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
-* [这本书什么时候出版？是彩色印刷吗？有电子版吗？](https://github.com/cssmagic/CSS-Secrets/issues/16)
+* [这本书什么时候出版？是彩色印刷吗？有电子版吗？怎样下载代码？](https://github.com/cssmagic/CSS-Secrets/issues/16)
 * [如何购买？如何获得签名书？](https://github.com/cssmagic/CSS-Secrets/issues/27)
 
 ### 读者交流 <a name="feedback">&nbsp;</a>
