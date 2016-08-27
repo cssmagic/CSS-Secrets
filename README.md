@@ -2,7 +2,7 @@
 
 > 这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
-[![\[CSS Secrets 简体中文版 - 封面\]](https://cloud.githubusercontent.com/assets/1231359/14773652/5bf7c006-0adf-11e6-8712-70be89b3b97d.jpg)](https://github.com/cssmagic/CSS-Secrets/issues/31)
+[![[CSS Secrets 简体中文版 - 封面]](https://cloud.githubusercontent.com/assets/1231359/14773652/5bf7c006-0adf-11e6-8712-70be89b3b97d.jpg)](https://github.com/cssmagic/CSS-Secrets/issues/31)
 
 ### 基本信息 <a name="basic">&nbsp;</a>
 
