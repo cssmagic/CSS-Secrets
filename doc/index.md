@@ -43,8 +43,8 @@ issue: 17
 401| [15] 单侧投影|-|〃|-
 402| [16] 不规则投影|-|〃|-
 403| [17] 染色效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/56)
-404| [18] 毛玻璃效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/12)|〃|-
-405| [19] 折角效果|-|〃|-
+404| [18] 毛玻璃效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/12)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/57)
+405| [19] 折角效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/58)
 |
 **第五章** | **字体排印**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9397)|
 501| [20] 连字符断行|-|〃|-
