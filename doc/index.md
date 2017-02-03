@@ -1,6 +1,6 @@
 ---
 title: "总目录"
-issue: "#17"
+issue: 17
 ---
 
 ## 《CSS Secrets》中文版总目录
@@ -42,7 +42,7 @@ issue: "#17"
 **第四章** | **视觉效果**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9396)|
 401| [15] 单侧投影|-|〃|-
 402| [16] 不规则投影|-|〃|-
-403| [17] 染色效果|-|〃|-
+403| [17] 染色效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/56)
 404| [18] 毛玻璃效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/12)|〃|-
 405| [19] 折角效果|-|〃|-
 |
