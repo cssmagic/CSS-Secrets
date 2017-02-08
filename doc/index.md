@@ -47,8 +47,8 @@ issue: 17
 405| [19] 折角效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/58)
 |
 **第五章** | **字体排印**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9397)|
-501| [20] 连字符断行|-|〃|-
-502| [21] 插入换行|-|〃|-
+501| [20] 连字符断行|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/59)
+502| [21] 插入换行|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/60)
 503| [22] 文本行的斑马条纹|-|〃|-
 504| [23] 调整 Tab 的宽度|-|〃|-
 505| [24] 连字|-|〃|-
