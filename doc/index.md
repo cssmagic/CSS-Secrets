@@ -52,7 +52,7 @@ issue: 17
 503| [22] 文本行的斑马条纹|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/61)
 504| [23] 调整 Tab 的宽度|-|〃|-
 505| [24] 连字|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/62)
-506| [25] 华丽的 & 符号|[试读](https://github.com/cssmagic/CSS-Secrets/issues/13)|〃|-
+506| [25] 华丽的 & 符号|[试读](https://github.com/cssmagic/CSS-Secrets/issues/13)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/63)
 507| [26] 自定义下划线|-|〃|-
 508| [27] 现实中的文字效果|-|〃|-
 509| [28] 环形文字|-|〃|-
