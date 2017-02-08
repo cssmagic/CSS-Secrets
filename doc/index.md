@@ -49,9 +49,9 @@ issue: 17
 **第五章** | **字体排印**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9397)|
 501| [20] 连字符断行|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/59)
 502| [21] 插入换行|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/60)
-503| [22] 文本行的斑马条纹|-|〃|-
+503| [22] 文本行的斑马条纹|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/61)
 504| [23] 调整 Tab 的宽度|-|〃|-
-505| [24] 连字|-|〃|-
+505| [24] 连字|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/62)
 506| [25] 华丽的 & 符号|[试读](https://github.com/cssmagic/CSS-Secrets/issues/13)|〃|-
 507| [26] 自定义下划线|-|〃|-
 508| [27] 现实中的文字效果|-|〃|-

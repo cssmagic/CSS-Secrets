@@ -30,3 +30,5 @@ notes/*/*.md
 !notes/chapter-4/*.md
 !notes/*/501.md
 !notes/*/502.md
+!notes/*/503.md
+!notes/*/505.md
