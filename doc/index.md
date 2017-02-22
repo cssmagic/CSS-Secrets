@@ -27,7 +27,7 @@ issue: 17
 203| [3] 灵活的背景定位|-|〃|-
 204| [4] 边框内圆角|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/33)
 205| [5] 条纹背景|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/34)
-206| [6] 复杂的背景图案|[试读](https://github.com/cssmagic/CSS-Secrets/issues/10)|〃|-
+206| [6] 复杂的背景图案|[试读](https://github.com/cssmagic/CSS-Secrets/issues/10)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/65)
 207| [7] 伪随机背景|-|〃|-
 208| [8] 连续的图像边框|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/35)
 |
