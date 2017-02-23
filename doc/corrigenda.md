@@ -1,12 +1,12 @@
 ---
 title: "勘误表"
-issue: "#2"
+issue: 2
 ---
 
 > #### 如何提交勘误？ <a name="how-to">&nbsp;</a>
-
+> 
 > 如果你在阅读本书的过程书中发现任何错误（包括编辑、排版、翻译、技术等方面的错误），[请新开一个 issue](https://github.com/cssmagic/CSS-Secrets/issues/new) 来描述这个错误，并请在标题中注明 “提交勘误”。当编辑或译者确认为错误后，将会收录到本页面中。
-
+> 
 > 感谢你的严谨让这本书变得圆满，其他读者必将从中受益！
 
 
@@ -17,8 +17,8 @@ issue: "#2"
 本页有两个代码块，均包含以下这行代码：
 
 > ```stylus
-background: linear-gradient(90deg, yellow, red);
-```
+> background: linear-gradient(90deg, yellow, red);
+> ```
 
 其中 `90deg` 应为 `0deg`。
 
@@ -94,8 +94,12 @@ background: linear-gradient(90deg, yellow, red);
 ### 第 65 页 · 倒数第二个代码块
 
 > ```css
-background:    linear-gradient(-45deg, transparent 15px, #58a 0)        right,    linear-gradient(45deg, transparent 15px, #655 0)        left;
-```
+> background:
+>     linear-gradient(-45deg, transparent 15px, #58a 0)
+>         right,
+>     linear-gradient(45deg, transparent 15px, #655 0)
+>         left;
+> ```
 
 此条声明中的 `#58a` 和 `#655` 应互换。
 
@@ -105,7 +109,7 @@ background:    linear-gradient(-45deg, transparent 15px, #58a 0)        right,
 ### 第 108 页 · 图 4-31
 
 > `cosθ = y/r`
-
+>
 > `sinθ = x/r`
 
 图中公式中的 `cos` 应为 `sin`，`sin` 应为 `cos`。
@@ -113,11 +117,23 @@ background:    linear-gradient(-45deg, transparent 15px, #58a 0)        right,
 <sup>（贡献者：@peacelee）</sup>
 
 
+### 第 134 页 · 第一段
+
+> ……因为我们只需要使用 `text-shadows` 属性的扩张参数就可让投影变大，然后看起来就像给文字勾边了一样。
+
+需作如下修正：
+
+* `text-shadows` 应为 `text-shadow`。
+* “就可” 最好改为 “就可以”。
+
+<sup>（这是译者 @cssmagic 在提交译稿时出现的笔误，向大家致歉！）</sup>
+
+
 ### 第 169 页 · 第二个代码块 · 第 5 行
 
 > ```js
-slider.insertBefore(img, div);
-```
+> slider.insertBefore(img, div);
+> ```
 
 本行应为：
 
