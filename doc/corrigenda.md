@@ -12,7 +12,7 @@ issue: 2
 
 ## 中文版勘误 <a name="zh">&nbsp;</a>
 
-### 第 xxiv 页 · 本页的两个代码块
+### ⚠️ 第 xxiv 页 · 本页的两个代码块
 
 本页有两个代码块，均包含以下这行代码：
 
@@ -25,13 +25,31 @@ issue: 2
 <sup>（贡献者：@yifon）</sup>
 
 
-### 第 30 页 · 第二段
+### ☑️ 第 14 页 · 第二段
+
+> ……它们为 CSS 的编写提供提供了一些便利……
+
+“提供提供” 应为 “提供”。
+
+<sup>（贡献者： 图灵社区 [Skyline555](http://www.ituring.com.cn/users/228349)）</sup>
+
+
+### ☑️ 第 30 页 · 第二段
 
 > 对于一个 45° 的直角三角形来说，它的两条直角边是等长的，因此这个算式会变成 ![\sqrt{2a} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a}%20%3d%20a%5csqrt{2})。
 
 句末的算式应为 ![\sqrt{2a^2} = a\sqrt{2}](http://latex.codecogs.com/gif.latex?%5csqrt{2a^2}%20%3d%20a%5csqrt{2})。
 
 <sup>（贡献者：@cssmagic）</sup>
+
+
+### ☑️ 第 44 页 · 第二段
+
+> ……这样的结果显明更有随机的感觉……
+
+“显明” 应为 “明显”。
+
+<sup>（贡献者： 图灵社区 [Taipa](http://www.ituring.com.cn/users/142654)）</sup>
 
 
 ### 第 45 页 · 脚注
@@ -42,7 +60,7 @@ issue: 2
 
 <sup>（贡献者：微信网友 “剑猫情缘”）</sup>
 
-### 第 45 页 · “相对质数” 一词
+### ☑️ 第 45 页 · “相对质数” 一词
 
 * 第一段：
 
@@ -102,7 +120,7 @@ issue: 2
 <sup>（贡献者：微信网友 “PiB”）</sup>
 
 
-### 第 61 页 · 第二段
+### ☑️ 第 61 页 · 第二段
 
 > 因此，把 `max-width` 的值设置为 ![formula](http://latex.codecogs.com/gif.latex?%5csqrt{2}%20%5ctimes%20100%5c%%20%5capprox%20414.4213562%5c%) 是很合理的……
 
@@ -111,7 +129,7 @@ issue: 2
 <sup>（贡献者：@ourfeel）</sup>
 
 
-### 第 65 页 · 倒数第二个代码块
+### ☑️ 第 65 页 · 倒数第二个代码块
 
 > ```css
 > background:
@@ -126,7 +144,7 @@ issue: 2
 <sup>（贡献者：@ArvinTung）</sup>
 
 
-### 第 108 页 · 图 4-31
+### ☑️ 第 108 页 · 图 4-31
 
 > `cosθ = y/r`
 >
@@ -149,7 +167,7 @@ issue: 2
 <sup>（这是译者 @cssmagic 在提交译稿时出现的笔误，向大家致歉！）</sup>
 
 
-### 第 169 页 · 第二个代码块 · 第 5 行
+### ☑️ 第 169 页 · 第二个代码块 · 第 5 行
 
 > ```js
 > slider.insertBefore(img, div);
