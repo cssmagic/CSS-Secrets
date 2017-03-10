@@ -55,7 +55,7 @@ issue: 17
 506| [25] 华丽的 & 符号|[试读](https://github.com/cssmagic/CSS-Secrets/issues/13)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/63)
 507| [26] 自定义下划线|-|〃|-
 508| [27] 现实中的文字效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/70)
-509| [28] 环形文字|-|〃|-
+509| [28] 环形文字|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/71)
 |
 **第六章** | **用户体验**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9398)|
 601| [29] 选用合适的鼠标光标|-|〃|-
