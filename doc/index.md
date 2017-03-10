@@ -60,7 +60,7 @@ issue: 17
 **第六章** | **用户体验**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/tupubarticle/9398)|
 601| [29] 选用合适的鼠标光标|-|〃|-
 602| [30] 扩大可点击区域|-|〃|-
-603| [31] 自定义复选框|[试读](https://github.com/cssmagic/CSS-Secrets/issues/14)|〃|-
+603| [31] 自定义复选框|[试读](https://github.com/cssmagic/CSS-Secrets/issues/14)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/72)
 604| [32] 通过阴影来弱化背景|-|〃|-
 605| [33] 通过模糊来弱化背景|-|〃|-
 606| [34] 滚动提示|-|〃|-
