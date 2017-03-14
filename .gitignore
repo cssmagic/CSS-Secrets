@@ -35,4 +35,4 @@ notes/*/*.md
 !notes/*/506.md
 !notes/*/508.md
 !notes/*/509.md
-!notes/*/603.md
+!notes/chapter-6/*.md
