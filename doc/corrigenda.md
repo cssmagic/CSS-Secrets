@@ -21,7 +21,7 @@ issue: 2
 > 
 > #### 标记含义
 > 
-> * <u>下划线</u> - 仅用于标注需要修改的部分，以便对照，并非排版格式。
+> * <u>下划线</u> - 仅用于标注需要修改的部分，以便对照，并非排版格式。（但遗憾的是，GitHub 并不支持下划线样式的显示。我们需要使用其它 Markdown 编辑器打开[本文的源码](https://raw.githubusercontent.com/cssmagic/CSS-Secrets/master/doc/corrigenda.md)，才能看到效果。）
 
 
 ### ⚠️ 第 xxiv 页 · 本页的两个代码块
@@ -328,7 +328,7 @@ slider.insertBefore(div, img);
 
 ***
 
-### 英文原书勘误表 <a name="en">&nbsp;</a>
+## 英文原书勘误表 <a name="en">&nbsp;</a>
 
 > by O’Reilly Media, Inc.
 
