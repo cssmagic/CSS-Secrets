@@ -25,6 +25,10 @@
 * [这本书什么时候出版？是彩色印刷吗？有电子版吗？怎样下载代码？](https://github.com/cssmagic/CSS-Secrets/issues/16)
 * [如何购买？如何获得签名书？](https://github.com/cssmagic/CSS-Secrets/issues/27)
 
+### 勘误表
+
+* [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2) &nbsp;|&nbsp; [排版失误](https://github.com/cssmagic/CSS-Secrets/issues/36)
+
 ### 读者交流 <a name="feedback">&nbsp;</a>
 
 * 关于这本书的疑问、讨论、反馈，[请发 issue](https://github.com/cssmagic/CSS-Secrets/issues)。
@@ -50,7 +54,6 @@
 
 ### 其它文档与素材 <a name="doc">&nbsp;</a>
 
-* [勘误表](https://github.com/cssmagic/CSS-Secrets/issues/2) &nbsp;|&nbsp; [排版失误](https://github.com/cssmagic/CSS-Secrets/issues/36)
 * [全书插图](https://github.com/cssmagic/CSS-Secrets/tree/master/figures)
 * [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
 * [进度表（存档留念）](https://github.com/cssmagic/CSS-Secrets/issues/43) <a name="progress">&nbsp;</a>
