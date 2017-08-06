@@ -134,6 +134,18 @@ issue: 2
 <sup>（贡献者：微信网友 “PiB”）</sup>
 
 
+
+### 🕒 第 48 页 · 第三个代码块
+
+> ```css
+> 	background:> 		linear-gradient(white, white) padding-box,> 		url(stone-art.jpg) border-box 0 / cover;
+> ```
+
+`0` 应为 `0 0`。
+
+<sup>（贡献者：@GalliLiu）</sup>
+
+
 ### 🕒 第 59 页 · 唯一的代码块
 
 > ```css
