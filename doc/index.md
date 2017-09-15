@@ -71,8 +71,8 @@ issue: 17
 702| [37] 精确控制表格列宽|-|〃|-
 703| [38] 根据兄弟元素的数量来设置样式|-|〃|-
 704| [39] 满幅的背景、定宽的内容|-|〃|-
-705| [40] 垂直居中|-|〃|-
-706| [41] 紧贴底部的页脚|[试读](https://github.com/cssmagic/CSS-Secrets/issues/18)|〃|-
+705| [40] 垂直居中|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/77)
+706| [41] 紧贴底部的页脚|[试读](https://github.com/cssmagic/CSS-Secrets/issues/18)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/78)
 | |
 **第八章** | **过渡与动画**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/book/tupubarticle4/9400)|
 801| [42] 缓动效果|-|〃|-
