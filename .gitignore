@@ -28,12 +28,8 @@ notes/*/*.md
 !notes/chapter-2/*.md
 !notes/chapter-3/*.md
 !notes/chapter-4/*.md
-!notes/*/501.md
-!notes/*/502.md
-!notes/*/503.md
-!notes/*/505.md
-!notes/*/506.md
-!notes/*/508.md
-!notes/*/509.md
+!notes/chapter-5/*.md
 !notes/chapter-6/*.md
 !notes/chapter-7/*.md
+!notes/chapter-8/*.md
+notes/*/508.extra.md

@@ -75,12 +75,12 @@ issue: 17
 706| [41] 紧贴底部的页脚|[试读](https://github.com/cssmagic/CSS-Secrets/issues/18)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/78)
 | |
 **第八章** | **过渡与动画**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/book/tupubarticle4/9400)|
-801| [42] 缓动效果|-|〃|-
-802| [43] 逐帧动画|[试读](https://github.com/cssmagic/CSS-Secrets/issues/22)|〃|-
+801| [42] 缓动效果|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/79)
+802| [43] 逐帧动画|[试读](https://github.com/cssmagic/CSS-Secrets/issues/22)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/80)
 803| [44] 闪烁效果|-|〃|-
 804| [45] 打字动画|-|〃|-
 805| [46] 状态平滑的动画|-|〃|-
-806| [47] 沿环形路径平移的动画|-|〃|-
+806| [47] 沿环形路径平移的动画|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/81)
 
 * <sup>[1]</sup> 本站发布的免费试读样章已获出版社授权。早期译版未经校审，仅供参考。
 * <sup>[2]</sup> 链接指向图灵官网的在线电子版，少量章节可免费在线阅读，其余章节需要在图灵官网 [购买本书](http://www.ituring.com.cn/book/1695) 后方可阅读。
