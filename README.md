@@ -1,10 +1,10 @@
 # 《CSS 揭秘》
 
 > 即《CSS Secrets》中文版。
-
+>
 > 这里不仅有译者发布的样章、注解、勘误，还有来自读者的疑问、讨论、反馈。
 
-[![[CSS Secrets 简体中文版 - 封面]](https://cloud.githubusercontent.com/assets/1231359/14773652/5bf7c006-0adf-11e6-8712-70be89b3b97d.jpg)](https://github.com/cssmagic/CSS-Secrets/issues/31)
+![[CSS Secrets 简体中文版 - 封面]](https://cloud.githubusercontent.com/assets/1231359/14773652/5bf7c006-0adf-11e6-8712-70be89b3b97d.jpg)
 
 ### 基本信息 <a name="basic">&nbsp;</a>
 
@@ -22,8 +22,8 @@
 
 ### 常见问题 <a name="faq">&nbsp;</a>
 
-* [这本书什么时候出版？是彩色印刷吗？有电子版吗？怎样下载代码？](https://github.com/cssmagic/CSS-Secrets/issues/16)
-* [如何购买？如何获得签名书？](https://github.com/cssmagic/CSS-Secrets/issues/27)
+* [这本书是彩色印刷吗？有电子版吗？怎样下载代码？](https://github.com/cssmagic/CSS-Secrets/issues/16)
+* [如何购买？](https://github.com/cssmagic/CSS-Secrets/issues/27)
 
 ### 勘误表
 
@@ -38,14 +38,7 @@
 
 ### 注解 <a name="notes">&nbsp;</a>
 
-* [[注解] [040] 前言](https://github.com/cssmagic/CSS-Secrets/issues/28)
-* [[注解] [043] 关于本书](https://github.com/cssmagic/CSS-Secrets/issues/29)
-* [[注解] [102] CSS 编码技巧](https://github.com/cssmagic/CSS-Secrets/issues/30)
-* [[注解] [201] 半透明边框](https://github.com/cssmagic/CSS-Secrets/issues/32)
-* [[注解] [204] 边框内圆角](https://github.com/cssmagic/CSS-Secrets/issues/33)
-* [[注解] [205] 条纹背景](https://github.com/cssmagic/CSS-Secrets/issues/34)
-* [[注解] [208] 连续的图像边框](https://github.com/cssmagic/CSS-Secrets/issues/35)
-* ……（正在陆续发布中，请到 [总目录](https://github.com/cssmagic/CSS-Secrets/issues/17) 中按章节阅读）
+这本书的注解已由中文版译者 @CSS魔法 编写完成，[点此阅读](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)。
 
 ### 试读样章 <a name="preview">&nbsp;</a>
 
@@ -54,9 +47,11 @@
 
 ### 其它文档与素材 <a name="doc">&nbsp;</a>
 
-* [全书插图](https://github.com/cssmagic/CSS-Secrets/tree/master/figures)
-* [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
-* [进度表（存档留念）](https://github.com/cssmagic/CSS-Secrets/issues/43) <a name="progress">&nbsp;</a>
+* 参考资料
+	* [全书插图](https://github.com/cssmagic/CSS-Secrets/tree/master/figures)
+	* [术语翻译对照表](https://github.com/cssmagic/CSS-Secrets/issues/1)
+* 其它
+	* [进度表（存档留念）](https://github.com/cssmagic/CSS-Secrets/issues/43) <a name="progress">&nbsp;</a>
 
 ***
 
@@ -71,7 +66,7 @@
 
 ***
 
-### 其它版本
+### 本书的其它版本
 
 * [英文原版](https://books.google.com.hk/books?id=nokNCgAAQBAJ&printsec=frontcover)
 * [繁体中文版（台湾版）](https://github.com/cssmagic/CSS-Secrets/issues/24)

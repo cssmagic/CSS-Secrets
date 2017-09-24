@@ -83,5 +83,5 @@ issue: 17
 806| [47] 沿环形路径平移的动画|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/81)
 
 * <sup>[1]</sup> 本站发布的免费试读样章已获出版社授权。早期译版未经校审，仅供参考。
-* <sup>[2]</sup> 链接指向图灵官网的在线电子版，少量章节可免费在线阅读，其余章节需要在图灵官网 [购买本书](http://www.ituring.com.cn/book/1695) 后方可阅读。
-* <sup>[3]</sup> 正在陆续发布中。
+* <sup>[2]</sup> 链接指向图灵官网的在线电子版，少量章节可免费在线阅读，其余章节需要在图灵官网 [购买电子书](http://www.ituring.com.cn/book/1695) 后方可阅读。
+* <sup>[3]</sup> 本表仅收录与章节相关的注解，更多注解 [点此阅读](https://github.com/cssmagic/CSS-Secrets/tree/master/notes)。
