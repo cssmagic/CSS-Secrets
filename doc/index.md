@@ -37,7 +37,7 @@ issue: 17
 303| [11] 菱形图片|-|〃|-
 304| [12] 切角效果|[试读](https://github.com/cssmagic/CSS-Secrets/issues/11)|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/38)
 305| [13] 梯形标签页|-|〃|-
-306| [14] 简单的饼图|-|〃|-
+306| [14] 简单的饼图|-|〃| [免费阅读](https://github.com/cssmagic/CSS-Secrets/issues/85)
 | |
 **第四章** | **视觉效果**|| [购买后阅读 <sup>↗</sup>](http://www.ituring.com.cn/book/tupubarticle/9396)|
 401| [15] 单侧投影|-|〃|-
