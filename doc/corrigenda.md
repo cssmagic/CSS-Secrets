@@ -287,6 +287,17 @@ issue: 2
 <sup>（这是译者 @cssmagic 在提交译稿时出现的笔误，向大家致歉！）</sup>
 
 
+### 🕒 第 154 页 · 唯一的代码块
+
+需在 `position: fixed;` 之上添加一行：
+
+```css
+    content: '';
+```
+
+<sup>（贡献者：@OfficialYoungX）</sup>
+
+
 ### ✅ 第 169 页 · 第二个代码块 · 第 5 行
 
 > ```js
